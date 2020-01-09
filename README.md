@@ -7,9 +7,8 @@ By looking at the crime data, I would like to gain insights on the safe and dang
 * Highlight results
 
 
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig1.png)
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig3_1.png)
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig3_2.png)
+![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig1_2.png)
+![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig3.png)
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_2.png)
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_3.png)
 
@@ -29,13 +28,13 @@ In the winter (October to December), the crime stays relatively low. Not surpris
 
 * Displaying on maps
 
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/heatmap.png)
+![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/heatmap2.png)
 
 It seems that chicago downtown and south areas are the most dangerous part.
 
 * Advice
 
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/result.png)
+![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/result_all.png)
 
 Below is the Chicago community map.
 
