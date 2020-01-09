@@ -5,6 +5,8 @@ I have been staying in Chicago area for 4 years. Safety concern has always been 
 By looking at the crime data, I would like to gain insights on the safe and dangerous areas in chicago and how chicago distribute their resources to maintain the safety.
 
 * Highlight results
+
+
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig1.png)
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig3_1.png)
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig3_2.png)
