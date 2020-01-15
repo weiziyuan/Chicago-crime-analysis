@@ -12,6 +12,9 @@ By looking at the crime data, I would like to gain insights on the safe and dang
 
 <p align="center">
   <img width="345" height="225" src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_2.png">
+</p>
+
+<p align="center">
   <img width="345" height="225" src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_3.png">
 </p>
 
