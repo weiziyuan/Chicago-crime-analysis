@@ -4,7 +4,7 @@
 I have been staying in Chicago area for 4 years. Safety concern has always been an issue in this area. 
 By looking at the crime data, I would like to gain insights on the safe and dangerous areas in chicago and how chicago distribute their resources to maintain the safety.
 
-* Highlight results
+* Highlighted results
 
 
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig1_2.png)
@@ -25,6 +25,10 @@ Possibly, as the weather becomes warmer,more crimes happend. Noticeably, Februar
 Fall to winter
 
 In the winter (October to December), the crime stays relatively low. Not surprisingly, Christmas Day turns out to be the lowest since most people are staying home and there are few people on the street.
+
+* Resolution
+
+![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/resolution.png)
 
 * Displaying on maps
 
