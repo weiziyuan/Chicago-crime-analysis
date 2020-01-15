@@ -11,11 +11,11 @@ By looking at the crime data, I would like to gain insights on the safe and dang
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig3.png)
 
 <p align="center">
-  <img width="345" height="225" src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_2.png">
+  <img width="400" height="250" src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_2.png">
 </p>
 
 <p align="center">
-  <img width="345" height="225" src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_3.png">
+  <img width="380" height="240" src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_3.png">
 </p>
 
 Winter
