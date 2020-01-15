@@ -50,7 +50,9 @@ It seems that chicago downtown and south areas are the most dangerous part.
 
 Below is the Chicago community map.
 
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/chi_community.png)
+<p align="center">
+  <img src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/chi_community.png">
+</p>
 
 Comparing the community map with the current distributed police station, it looks like there are none in community 76,community 9&10&17 and  community 56&64.
 
