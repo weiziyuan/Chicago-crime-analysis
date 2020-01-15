@@ -9,8 +9,11 @@ By looking at the crime data, I would like to gain insights on the safe and dang
 
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig1_2.png)
 ![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig3.png)
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_2.png)
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_3.png)
+
+<p align="center">
+  <img width="345" height="225" src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_2.png">
+  <img width="345" height="225" src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/Fig5_3.png">
+</p>
 
 Winter
 
@@ -28,7 +31,9 @@ In the winter (October to December), the crime stays relatively low. Not surpris
 
 * Resolution
 
-![alt text](https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/resolution.png)
+<p align="center">
+  <img src="https://github.com/weiziyuan/Chicago-crime-analysis/blob/master/Images/resolution.png">
+</p>
 
 * Displaying on maps
 
